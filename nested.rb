@@ -87,7 +87,6 @@ def adding_matz
 	programmer_hash[:yukihiro_matsumoto][:languages] << 'C'
 	programmer_hash
 end
-binding.pry
 
 def changing_alan
 	programmer_hash =
